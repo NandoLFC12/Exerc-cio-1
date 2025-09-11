@@ -1,2 +1,2 @@
-# Exerc-cio-1
-Exercícios de python
+# PYTHON
+Meus conhecimentos em Python
